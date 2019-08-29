@@ -1,4 +1,4 @@
-package list;
+package src.list;
 
 /**
  * 用递归向链表中添加数据链表中不用设立虚拟头节点
